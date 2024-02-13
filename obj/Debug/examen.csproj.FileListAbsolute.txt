@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\examen\bin\Debug\examen.exe.config
+C:\Users\usuario\source\repos\examen\bin\Debug\examen.exe
+C:\Users\usuario\source\repos\examen\bin\Debug\examen.pdb
+C:\Users\usuario\source\repos\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\examen\obj\Debug\examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\examen\obj\Debug\examen.exe
+C:\Users\usuario\source\repos\examen\obj\Debug\examen.pdb
